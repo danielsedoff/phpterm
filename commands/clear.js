@@ -1,0 +1,1 @@
+gbi("terminal_out").innerHTML = "";
