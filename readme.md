@@ -1,5 +1,5 @@
 # phpterm
-phpterm is a minimalistic extendable PHP-only terminal which works on shared hosting; all you need is PHP installed.
+phpterm is a minimalistic extendable PHP-only terminal.
 
 phpterm is intended for phones, tablets and PCs. It has a collapsible touch keyboard of its own which may be more useful than some touchscreen software keyboards.
 
